@@ -1,3 +1,6 @@
+// Creating menu screen with histogram, graph, high/lower numbers, median, addition, subtraction
+// else if statements
+
 #include <iostream>
 
 using namespace std;
